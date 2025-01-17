@@ -1,0 +1,5 @@
+Halo Pak, salam kenal nama saya Abdi dari Kisaran
+
+Resolusi Saya :
+- Membuat website menggunakan framework javascript
+- Bekerja di startup
